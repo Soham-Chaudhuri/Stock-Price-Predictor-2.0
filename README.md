@@ -2,6 +2,8 @@
 
 This repository hosts a stock price predictor model version 2.0, which predicts stock prices for various companies using linear regression.
 
+Deployed [Link](https://stonks-by-soham.netlify.app/).
+
 ## Overview
 
 The model utilizes linear regression from scikit-learn and includes preprocessing techniques such as MinMaxScaler and LabelEncoder.
